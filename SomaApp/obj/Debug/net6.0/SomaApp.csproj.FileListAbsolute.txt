@@ -1,0 +1,15 @@
+C:\dotnet projects\Teste target\SomaApp\bin\Debug\net6.0\SomaApp.exe
+C:\dotnet projects\Teste target\SomaApp\bin\Debug\net6.0\SomaApp.deps.json
+C:\dotnet projects\Teste target\SomaApp\bin\Debug\net6.0\SomaApp.runtimeconfig.json
+C:\dotnet projects\Teste target\SomaApp\bin\Debug\net6.0\SomaApp.dll
+C:\dotnet projects\Teste target\SomaApp\bin\Debug\net6.0\SomaApp.pdb
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.csproj.AssemblyReference.cache
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.AssemblyInfoInputs.cache
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.AssemblyInfo.cs
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.csproj.CoreCompileInputs.cache
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.dll
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\refint\SomaApp.dll
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.pdb
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\SomaApp.genruntimeconfig.cache
+C:\dotnet projects\Teste target\SomaApp\obj\Debug\net6.0\ref\SomaApp.dll
