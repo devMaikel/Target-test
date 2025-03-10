@@ -1,0 +1,15 @@
+C:\dotnet projects\Teste target\Questao03\bin\Debug\net6.0\Questao03.exe
+C:\dotnet projects\Teste target\Questao03\bin\Debug\net6.0\Questao03.deps.json
+C:\dotnet projects\Teste target\Questao03\bin\Debug\net6.0\Questao03.runtimeconfig.json
+C:\dotnet projects\Teste target\Questao03\bin\Debug\net6.0\Questao03.dll
+C:\dotnet projects\Teste target\Questao03\bin\Debug\net6.0\Questao03.pdb
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.csproj.AssemblyReference.cache
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.AssemblyInfoInputs.cache
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.AssemblyInfo.cs
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.csproj.CoreCompileInputs.cache
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.dll
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\refint\Questao03.dll
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.pdb
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\Questao03.genruntimeconfig.cache
+C:\dotnet projects\Teste target\Questao03\obj\Debug\net6.0\ref\Questao03.dll

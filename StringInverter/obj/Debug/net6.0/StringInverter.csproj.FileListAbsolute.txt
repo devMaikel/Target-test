@@ -1,0 +1,15 @@
+C:\dotnet projects\Teste target\StringInverter\bin\Debug\net6.0\StringInverter.exe
+C:\dotnet projects\Teste target\StringInverter\bin\Debug\net6.0\StringInverter.deps.json
+C:\dotnet projects\Teste target\StringInverter\bin\Debug\net6.0\StringInverter.runtimeconfig.json
+C:\dotnet projects\Teste target\StringInverter\bin\Debug\net6.0\StringInverter.dll
+C:\dotnet projects\Teste target\StringInverter\bin\Debug\net6.0\StringInverter.pdb
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.csproj.AssemblyReference.cache
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.AssemblyInfoInputs.cache
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.AssemblyInfo.cs
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.csproj.CoreCompileInputs.cache
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.dll
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\refint\StringInverter.dll
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.pdb
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\StringInverter.genruntimeconfig.cache
+C:\dotnet projects\Teste target\StringInverter\obj\Debug\net6.0\ref\StringInverter.dll

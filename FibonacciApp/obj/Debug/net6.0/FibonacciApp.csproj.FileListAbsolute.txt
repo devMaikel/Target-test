@@ -1,0 +1,15 @@
+C:\dotnet projects\Teste target\FibonacciApp\bin\Debug\net6.0\FibonacciApp.exe
+C:\dotnet projects\Teste target\FibonacciApp\bin\Debug\net6.0\FibonacciApp.deps.json
+C:\dotnet projects\Teste target\FibonacciApp\bin\Debug\net6.0\FibonacciApp.runtimeconfig.json
+C:\dotnet projects\Teste target\FibonacciApp\bin\Debug\net6.0\FibonacciApp.dll
+C:\dotnet projects\Teste target\FibonacciApp\bin\Debug\net6.0\FibonacciApp.pdb
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.csproj.AssemblyReference.cache
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.AssemblyInfoInputs.cache
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.AssemblyInfo.cs
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.csproj.CoreCompileInputs.cache
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.dll
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\refint\FibonacciApp.dll
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.pdb
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\FibonacciApp.genruntimeconfig.cache
+C:\dotnet projects\Teste target\FibonacciApp\obj\Debug\net6.0\ref\FibonacciApp.dll
